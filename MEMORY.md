@@ -12,7 +12,23 @@
 
 ## 核心决策记录
 
-<!-- 重要的决策记录在这里 -->
+### 2026-03-23 Superpowers工作流激活
+
+**开发流程标准化**：
+1. **brainstorming** → 需求探索、设计文档
+2. **writing-plans** → 实现计划
+3. **executing-plans** → 执行计划
+4. **requesting-code-review** → 代码审查
+5. **receiving-code-review** → 处理审查反馈
+
+**HARD-GATE**: 任何开发任务前必须先设计批准，不能直接写代码。
+
+### 2026-03-23 盘中监控增强
+
+- 止损预警：距止损2%时自动通知
+- 止损触发：破止损线立即通知
+- 监控频率：交易时间每10分钟
+- 脚本位置：`~/.openclaw/workspace/scripts/stock-monitor.py`
 
 ## 用户偏好总结
 
