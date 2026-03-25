@@ -1,0 +1,6 @@
+{
+  "stocks": {
+    "农业银行": {"symbol": "601288.SS", "base_price": 6.83, "currency": "¥", "shares": 400},
+    "工商银行": {"symbol": "601398.SS", "base_price": 7.53, "currency": "¥", "shares": 300}
+  }
+}
