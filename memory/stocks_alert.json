@@ -2,19 +2,23 @@
   "农业银行": {
     "alerted": false,
     "alert_date": null,
-    "base_price": 6.50,
+    "base_price": 6.82,
     "last_alert_price": null,
-    "current_price": 6.50,
-    "last_check": "2026-03-30T14:27",
-    "change_pct": 0.0
+    "current_price": 6.82,
+    "last_check": "2026-04-03T15:00",
+    "change_pct": 0.0,
+    "today_close": 6.82,
+    "today_change": -1.45
   },
   "工商银行": {
     "alerted": false,
     "alert_date": null,
-    "base_price": 7.56,
+    "base_price": 7.49,
     "last_alert_price": null,
-    "current_price": 7.56,
-    "last_check": "2026-03-30T14:27",
-    "change_pct": 0.0
+    "current_price": 7.49,
+    "last_check": "2026-04-03T15:00",
+    "change_pct": 0.0,
+    "today_close": 7.49,
+    "today_change": -1.83
   }
 }
