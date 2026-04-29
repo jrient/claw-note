@@ -1,28 +1,30 @@
 {
-  "农业银行": {
+  "\u519c\u4e1a\u94f6\u884c": {
     "symbol": "601288.SS",
     "alerted": false,
     "alert_date": null,
-    "base_price": 6.83,
-    "current_price": 6.59,
+    "base_price": 6.94,
+    "current_price": 6.94,
     "prev_close": 6.69,
-    "last_check": "2026-04-09T11:02",
+    "last_check": "2026-04-29",
     "change_pct": -3.51,
-    "today_change": -0.60,
+    "today_change": -0.6,
     "shares": 400,
-    "pnl": -96
+    "pnl": -96,
+    "last_alert_price": null
   },
-  "工商银行": {
+  "\u5de5\u5546\u94f6\u884c": {
     "symbol": "601398.SS",
     "alerted": false,
     "alert_date": null,
-    "base_price": 7.53,
-    "current_price": 7.26,
-    "prev_close": 7.40,
-    "last_check": "2026-04-09T11:02",
+    "base_price": 7.47,
+    "current_price": 7.47,
+    "prev_close": 7.4,
+    "last_check": "2026-04-29",
     "change_pct": -3.59,
     "today_change": -0.82,
     "shares": 300,
-    "pnl": -81
+    "pnl": -81,
+    "last_alert_price": null
   }
 }
